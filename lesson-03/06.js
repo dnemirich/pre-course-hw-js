@@ -32,5 +32,5 @@ const users3 = [
 ];
 
 //Добавь в каждый объект ключ-значение isMarried: true. Полученный результат выведи в консоль
-users3.forEach((user) => user["married"] = true);
+users3.forEach((user) => user["isMarried"] = true);
 console.log(users3);
